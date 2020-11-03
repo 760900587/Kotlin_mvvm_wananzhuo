@@ -1,0 +1,2 @@
+include ':app', ':httplibrary'
+rootProject.name='Kotlin_mvvm_wananzhuo'
