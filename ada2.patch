@@ -1,0 +1,15 @@
+Index: app/src/main/java/com/example/kotlin_mvvm_wananzhuo/adapter/Tab_Adapter.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/kotlin_mvvm_wananzhuo/adapter/Tab_Adapter.kt	(date 1604374603000)
++++ app/src/main/java/com/example/kotlin_mvvm_wananzhuo/adapter/Tab_Adapter.kt	(date 1604374683196)
+@@ -19,6 +19,7 @@
+             parent,
+             false
+         )
++        //我的ads啊实打实
+         var holder =ViweHolder(viewDataBinding)
+         return holder
+     }
