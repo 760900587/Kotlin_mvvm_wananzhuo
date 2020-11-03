@@ -19,6 +19,7 @@ class Tab_Adapter(var list: List<DataX1>, var context: Context):RecyclerView.Ada
             parent,
             false
         )
+        //我的ads啊实打实
         var holder =ViweHolder(viewDataBinding)
         return holder
     }
