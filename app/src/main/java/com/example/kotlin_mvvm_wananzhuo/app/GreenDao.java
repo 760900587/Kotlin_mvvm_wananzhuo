@@ -1,4 +1,4 @@
-package com.example.kotlin_mvvm_wananzhuo.app;
+    package com.example.kotlin_mvvm_wananzhuo.app;
 
 public class GreenDao {
 //    // 添加代码仓库  步骤1  在project的gradle下
